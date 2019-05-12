@@ -28,4 +28,4 @@ KoPub 돋움체의 웹폰트 입니다.
 | Name  | URL | Minified URL |
 | ------------- | ------------- | ------------- |
 | GitHub Pages | <https://webfont-kr.github.io/KoPubDotum/KoPubDotum.css> | <https://webfont-kr.github.io/KoPubDotum/KoPubDotum.min.css> |
-| jsDelivr | <https://cdn.jsdelivr.net/gh/webfont-kr/KoPubDotum@1.0.0/KoPubDotum.css> | https://cdn.jsdelivr.net/gh/webfont-kr/KoPubDotum@1.0.0/KoPubDotum.min.css |
+| jsDelivr | <https://cdn.jsdelivr.net/gh/webfont-kr/KoPubDotum@master/KoPubDotum.css> | https://cdn.jsdelivr.net/gh/webfont-kr/KoPubDotum@master/KoPubDotum.min.css |
