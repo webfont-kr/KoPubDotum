@@ -9,12 +9,12 @@ KoPub 돋움체의 웹폰트 입니다.
 2. Medium ― 400
 3. Bold ― 600
 
-## 적용 방법
+## 적용법
 
 ### HEAD에 넣는 방법
 
 ```html
-<link rel="stylesheet" type="text/css" href="/path/css/KoPubDotum.css">
+<link rel="stylesheet" type="text/css" href="/path/KoPubDotum.css">
 ```
 
 ### CSS에 넣는 방법
@@ -22,3 +22,10 @@ KoPub 돋움체의 웹폰트 입니다.
 ```css
 @import url('KoPubDotum.css')
 ```
+
+## CDN List
+
+| Name  | URL | Minified URL |
+| ------------- | ------------- | ------------- |
+| GitHub Pages | <https://webfont-kr.github.io/KoPubDotum/KoPubDotum.css> | <https://webfont-kr.github.io/KoPubDotum/KoPubDotum.min.css> |
+| jsDelivr | <https://cdn.jsdelivr.net/gh/webfont-kr/KoPubDotum@1.0.0/KoPubDotum.css> | https://cdn.jsdelivr.net/gh/webfont-kr/KoPubDotum@1.0.0/KoPubDotum.min.css |
